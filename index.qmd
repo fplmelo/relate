@@ -191,66 +191,6 @@ tags$div(class = "category-row",
 :::
 
 
-:::{.column-screen style="background-color:#B8573E;"}
-:::{.column-screen-inset}
-:::{.home-column-image .col-left}
-
-<a href="https://labs.ala.org.au/software/index.html">
-
-![](images/homepage/home_ala-software-c.png){.home-img-transparent}
-
-</a>
-
-<!-- :::{.hexBadges} -->
-
-<!-- <a href="https://labs.ala.org.au/software.html"> -->
-<!-- <img src = "https://raw.githubusercontent.com/AtlasOfLivingAustralia/ala-labs/science-impact-testing/images/hex/galah_logo.png" class = "r1 c0"></img> -->
-<!-- </a> -->
-
-<!-- <a href="https://labs.ala.org.au/software.html"> -->
-<!-- <img src = "https://raw.githubusercontent.com/AtlasOfLivingAustralia/ala-labs/science-impact-testing/images/hex/potions-logo.png" class = "r2 c1" style = "width:265px;"></img> -->
-<!-- </a> -->
-<!-- ::: -->
-
-:::
-
-:::{.home-column-text .col-right}
-
-<center> <h1 class="heading-home" style="color: #fff;">Software</h1>
-
-<span style = "font-style: italic; color: #fff;">Tools supported by the Science & Decision Support Team</span>
-
-</center>
-
-```{r, echo = FALSE}
-#| eval: false
-#| include: false
-tags$div(class = "category-row",
-  
-  tags$div( 
-    class = "category-column",
-    style = "width: 100%",
-    tags$a(href = "software/index.html",
-      tags$img(
-        href = "software/index.html",
-        src = "images/vectors/hexagon-vector.svg",
-        style = "color:#fff !important;",
-        class = "category-image honey-white"
-  )),
-  tags$h4(style = "text-align:center;",
-      tags$a(
-        class = "white",
-        href = "software/index.html", "Packages"))
-  
-  ))
-```
-
-
-:::
-:::
-:::
-
-
 :::{.column-screen style="background-color:#ffffff;"}
 :::{.column-screen-inset}
 :::{.home-column-image .col-left}
@@ -275,7 +215,7 @@ tags$div(class = "category-row",
   )),
   tags$h4(style = "text-align:center;",
       tags$a(
-        href = "blog/index.html", "Books"))
+        href = "blog/index.html", "Carta"))
   
   ))
 ```
@@ -287,7 +227,7 @@ tags$div(class = "category-row",
 <center>
 <a href="https://labs.ala.org.au/books/index.html">
 
-![](books/images/covers/cleaner-shrimp_cover.png){.home-img-transparent width=45% style="border-radius:2%;"}
+![](books/images/foto_funda.jpeg){.home-img-transparent width=45% style="border-radius:2%;"}
 
 </a>
 </center>
@@ -302,7 +242,7 @@ tags$div(class = "category-row",
 
 :::{.column-page}
 
-<center> <h1>{{< fa earth-oceania >}} Nuestros valores</h1> </center>
+<center> <h1>{{< fa earth-america >}} Nuestros valores</h1> </center>
 
 :::
 
