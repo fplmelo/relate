@@ -1,12 +1,11 @@
 ---
-title: "Books"
+title: "Carta"
 subtitle: "Long-form resources by the Science & Decision Support Team"
 title-block-banner: "#E06E53"
 title-block-banner-color: body
 toc: false
-format: 
-  html: 
-    include-after-body: _footer.html
+format: html 
+    # include-after-body: _footer.html
 freeze: true
 ---
 
@@ -18,14 +17,37 @@ freeze: true
 
 :::{.column-page layout="[35,65]" style="margin-left: auto; margin-right: auto;"}
 
-<a href="https://cleaning-data-r.ala.org.au/">
-![](images/covers/cleaner-shrimp_cover.png){style="width:95%;margin-left: auto;margin-right: auto;"}
+<a href="">
+![](images/foto_funda.jpeg){style="width:95%;margin-left: auto;margin-right: auto;"}
 </a>
 
 
-# Cleaning Biodiversity Data in R
+# Carta de Fundación de la Red Latinoamericana de Ecología
 
-Data cleaning is a process that anyone who works with data must engage with if they want use their data to answer questions about the world and the environment. [*Cleaning Biodiversity Data in R*](https://cleaning-data-r.ala.org.au/) is a practical guide on cleaning geo-referenced biodiversity data using R. It is a targeted resource for anyone working with or interested in answering questions using data in ecology and evolution.
+
+Reunidos en la Ciudad de México durante el Coloquio Internacional Perspectivas de la Ecología en América Latina (entre el 23 y 25 de junio de 2025), representantes de sociedades científicas e instituciones dedicadas a la ecología de distintos países, entienden que es momento de crear una asociación que aborde los desafíos de la ecología en cuanto disciplina científica y sus aplicaciones socioambientales. La creación de la Red Latinoamericana de Ecología (Red EcoLat) responde a la necesidad de articular esfuerzos, experiencias y saberes entre comunidades científicas de la región, promoviendo el fortalecimiento de vínculos académicos horizontales, la producción colaborativa de conocimiento y la visibilización de perspectivas situadas con centro en el Sur Global. En un contexto de crecientes desafíos
+sociales, ambientales y epistemológicos, una red científica latinoamericana de ecología representa un instrumento fundamental para fortalecer la ecología latinoamericana, fomentar el intercambio crítico, la cooperación regional y la incidencia colectiva en los debates contemporáneos. 
+
+La Red Latinoamericana de Ecología se basa en la horizontalidad, fomentando relaciones simétricas que valoran la diversidad y la equidad de sus miembros. Busca una incidencia crítica para transformar las realidades estudiadas con ética y compromiso político. Se compromete con la conservación biocultural, reconociendo la interdependencia entre diversidad biológica y cultural, y respetando los territorios y conocimientos comunitarios. Promueve la sostenibilidad socioecológica desde una ecología orientada a la justicia social y ambiental, con una perspectiva crítica, inter y transdisciplinaria latinoamericana. Defiende el compromiso con el bienestar colectivo, promoviendo el conocimiento ecológico como un bien común, abierto y accesible. Además, busca la integración y el fortalecimiento de vínculos
+entre instituciones y comunidades de América Latina mediante la cooperación y el apoyo mutuo. Se acuerdan las siguientes acciones inmediatas a implementar:
+
+1. Convocar a Sociedades e Instituciones dedicadas a la ecología de los demás países de la región a formar parte de la Red.
+
+2. Realizar un Foro de trabajo durante la I Reunión Trinacional (Argentina, Chile y Uruguay) de Ecología (Mendoza, Argentina, del 5 al 10 de octubre de 2025).
+
+3. Organizar la I Reunión de la Red Latinoamericana de Ecología en México (2026) en simultáneo con el X Congreso Mexicano de Ecología. Queda por lo tanto creada la Red Latinoamericana de Ecología por iniciativa de las sociedades e instituciones científicas dedicadas a la ecología abajo firmantes.
+
+Ciudad de México
+25 de junio del 2025
+
+- Asociación Argentina de Ecología (AsAE)
+- Associação Brasileira de Ciência Ecológica e Conservação (ABECO)
+- Sociedad de Ecología de Chile (SOCECOL)
+- Sociedad Científica Mexicana de Ecología (SCME)
+- Comunidad de Ecología del Uruguay (CODEUY)
+- Colegio Nacional de Ecólogos, COLNADE, Colombia
+- IES (Instituto de Ecología y Sistemática), Cuba
+- IVIC - Sociedad Venezolana de Ecología
 
 :::
 

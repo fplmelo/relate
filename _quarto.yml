@@ -5,52 +5,54 @@ project:
     - "!archive/"
 
 website:
-  title: "ALA Labs"
-  description: "Demo projects, experiments, debugging data and so on from the [Atlas of Living Australia (ALA)](https://ala.org.au/)"
-  open-graph:
-    image: twitter-card-preview_frog-small.png
-    image-alt: "A Southern Brown Tree Frog with the ALA Labs logo"
-  twitter-card:
-    image: twitter-card-preview_frog-small.png
-    image-alt: "A Southern Brown Tree Frog with the ALA Labs logo"
-    card-style: summary_large_image
+  title: "RelatE"
+  description: "Red Latinoamericana de Ecología/Rede Latino-americana de Ecologia"
+  # open-graph:
+  #   image: twitter-card-preview_frog-small.png
+  #   image-alt: "A Southern Brown Tree Frog with the ALA Labs logo"
+  # twitter-card:
+  #   image: twitter-card-preview_frog-small.png
+  #   image-alt: "A Southern Brown Tree Frog with the ALA Labs logo"
+  #   card-style: summary_large_image
   site-url: https://labs.ala.org.au/
-  favicon: images/favicon.ico
+  # favicon: images/favicon.ico
   draft-mode: unlinked
   navbar:
     background: "#222322"
     foreground: "#FFFFFF"
     title: ""
     search: true
-    logo: images/logos/ALA_Logo_Inline_REV-RGB.png
+    # logo: images/logos/relate_marrom2.jpeg
     right:
       - href: index.qmd
         icon: house-door-fill
         text: " "
       - href: about/index.qmd
-        text: "About"
+        text: "Sobre la RelatE"
       - href: posts/index.qmd
-        text: "Posts"
-      - text: "Research"
+        text: "Noticias"
+      - text: "Sociedades"
         menu:
-        - href: research/highlights/index.qmd
-          text: "Highlights"
-        - href: research/citations/index.qmd
-          text: "All citations"
+        - href: https://abeco.org.br/
+          text: "ABECO-Brasil"
+        - href: https://scme.mx/
+          text: "SCME-México"
+        - href: https://www.asaeargentina.com.ar/
+          text: "ASAE-Argentina"
+        - href: https://www.socecol.cl/
+          text: "SOCECOL-Argentina"
       - href: software/index.qmd
-        text: "Software"
+        text: "Eventos"
       - href: books/index.qmd
-        text: "Books"
+        text: "Blog"
       - href: gallery/index.qmd
-        text: "Gallery"
-      - href: https://www.ala.org.au
-        icon: ala
-      - href: https://github.com/AtlasOfLivingAustralia/ala-labs
+        text: "Galeria"
+      - href: https://github.com/fplmelo/relate
         icon: github
   announcement:
     icon: info-circle
     dismissable: true
-    content: "Check out the new *Cleaning Biodiversity Data in R* book! [Click here to find out more](https://labs.ala.org.au/books/)."
+    content: "Estamos inciando nuestras actividades"
     type: light
     position: below-navbar
 
@@ -63,7 +65,7 @@ format:
     toc: true
     code-overflow: scroll
     linkcolor: "#B8573E"
-    include-before-body: _fathom.html
+    # include-before-body: _fathom.html
 
 freeze: true
 

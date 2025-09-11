@@ -13,7 +13,7 @@ format:
 #| include: false
 # To change the hero-image:
 
-# open theme.css
+# open index.css
 # find the .hero-image section
 ```
 
@@ -26,9 +26,9 @@ source("R/functions.R")
 :::{.column-screen}
 :::{.column-body}
 
-# Welcome to ALA Labs
+# Bienvenidos a RelatE
 
-This site is a resource for coding projects that use data sourced from [the ALA](https://ala.org.au/). We hope that users will find interesting content, whether their focus is ecological modelling, data visualisation, or simply investigating the natural world through a digital lens. Enjoy!
+Este es el sitioweb de la Red Latinoamericana de Ecología - RelatE!
 
 <br>
 
@@ -41,8 +41,8 @@ This site is a resource for coding projects that use data sourced from [the ALA]
 :::{.column-screen}
 :::{.column-screen-inset}
 :::{.home-column-image .col-right}
-<a href="https://labs.ala.org.au/lens">
-![](images/homepage/lens-bubble-image.png){.home-img-lens}
+<a href="">
+![](images/homepage/round_logos.png){.home-img-lens}
 </a>
 
 :::
@@ -51,15 +51,9 @@ This site is a resource for coding projects that use data sourced from [the ALA]
 
 <center> 
 
-<a href="https://labs.ala.org.au/lens">
-<h1 class="heading-home">ALA <img src="images/logos/lens-logo.svg" class="lens-logo"></img> Lens</h1>
-</a>
+<img src="images/logos/relate_verde.png"></img> 
 
-<span>Dive into data using a [new interactive interface](https://labs.ala.org.au/lens) for exploring ALA data. Try out new views of the ALA, designed to encourage exploration and discovery of species, data and place.</span><br>
-
-[Designed by [Mitchell Whitelaw](https://mtchl.net/) and [Adrian Mackenzie](https://researchportalplus.anu.edu.au/en/persons/adrian-mackenzie) of the [Australian National University (ANU)](https://www.anu.edu.au/)]{style="font-face:italic;"}<br>
-
-<span style="font-size:.7rem; color:#a7abb4;">Images (all CC-BY-NC): Kai Squires, andrewpavlov, mikegrow, kerrbrad, Matt Campbell, Toby Esplin, darcywhittaker</span>
+<span>Somos una red de sociedades científicas de ecología.</span><br>
 
 </center>
 
@@ -74,7 +68,7 @@ This site is a resource for coding projects that use data sourced from [the ALA]
 
 <a href="https://labs.ala.org.au/posts/">
 
-![](images/homepage/home_ala-plots.png){.home-img}
+![](images/homepage/latam_invert.jpg){.home-img}
 
 </a>
 
@@ -82,8 +76,8 @@ This site is a resource for coding projects that use data sourced from [the ALA]
 
 :::{.home-column-text .col-right}
 
-<center> <h1 class="heading-home" style="color: #fff;">Posts</h1>
-<span style = "color: #fff; font-style: italic">How-to articles for solving scientific problems</span> 
+<center> <h1 class="heading-home" style="color: #fff;">Notícias</h1>
+<span style = "color: #fff; font-style: italic">Ecologías desde el Sur</span> 
 </center>
 
 
@@ -95,42 +89,42 @@ tags$div(class = "category-row",
     tags$a(href = "posts/index.html#category=Summaries",
       tags$img(
         href = "posts/index.html#category=Summaries",
-        src = "images/vectors/barplot.svg",
+        src = "images/vectors/calendar.svg",
         style = "color:#fff !important;",
         class = "category-image honey-white"
   )),
   tags$h4(style = "text-align:center;",
       tags$a(
         class = "white",
-        href = "posts/index.html#category=Summaries", "Summaries"))),
+        href = "posts/index.html#category=Eventos", "Eventos"))),
   
   tags$div( 
     class = "category-column",
     tags$a(href = "posts/index.html#category=Maps",
       tags$img(
         href = "posts/index.html#category=Maps",
-        src = "images/vectors/Australia.svg",
+        src = "images/vectors/research.svg",
         style = "color:#fff !important;",
         class = "category-image honey-white"
   )),
   tags$h4(style = "text-align:center",
       tags$a(
         class = "white",
-        href = "posts/index.html#category=Maps", "Maps"))),
+        href = "posts/index.html#category=Articulos", "Artículos"))),
   
   tags$div( 
     class = "category-column",
     tags$a(href = "posts/index.html#category:Trees",
       tags$img(
         href = "posts/index.html#category=Trees",
-        src = "images/vectors/tree.svg",
+        src = "images/vectors/clip_alt.svg",
         style = "color:#fff !important;",
         class = "category-image honey-white"
   )),
   tags$h4(style = "text-align:center",
       tags$a(
         class = "white",
-        href = "posts/index.html#category=Trees", "Trees")))
+        href = "posts/index.html#category=Proyetos", "Proyetos")))
   
   )
 ```
@@ -145,21 +139,23 @@ tags$div(class = "category-row",
 :::{.column-screen-inset}
 :::{.home-column-image .col-right}
 <a href="https://labs.ala.org.au/research/highlights/">
-![](images/homepage/home_ala-research.png){.home-img}
+![](images/homepage/ciencia_sur.png){.home-img}
 </a>
 
 :::
 
 :::{.home-column-text .col-left}
 
-<center> <h1 class="heading-home">Research</h1>
+<center> <h1 class="heading-home">Periódicos Científicos</h1>
 
-<span style = "font-style: italic">Highlighting research supported by ALA data</span>
+<span style = "font-style: italic">Lista de periódicos en ecología publicados por países latinoamericanos</span>
 
 
 </center>
 
-```{r, echo = FALSE}
+```{r}
+#| eval: false
+#| include: false
 tags$div(class = "category-row",
          
   tags$div( 
@@ -227,6 +223,8 @@ tags$div(class = "category-row",
 </center>
 
 ```{r, echo = FALSE}
+#| eval: false
+#| include: false
 tags$div(class = "category-row",
   
   tags$div( 
@@ -257,9 +255,9 @@ tags$div(class = "category-row",
 :::{.column-screen-inset}
 :::{.home-column-image .col-left}
 
-<center> <h1 class="heading-home" style="color: #222322;">Books</h1>
+<center> <h1 class="heading-home" style="color: #222322;">Carta de fundación</h1>
 
-<span style = "font-style: italic;">Long-form resources by the Science & Decision Support Team</span>
+<span style = "font-style: italic;">Lea aquí la carta de fundación de la RelatE</span>
 
 </center>
 
@@ -272,12 +270,12 @@ tags$div(class = "category-row",
     tags$a(href = "books/index.html",
       tags$img(
         href = "books/index.html",
-        src = "images/vectors/book-solid.svg",
+        src = "images/vectors/letter_bold.svg",
         class = "category-image honey"
   )),
   tags$h4(style = "text-align:center;",
       tags$a(
-        href = "books/index.html", "Books"))
+        href = "blog/index.html", "Books"))
   
   ))
 ```
@@ -304,7 +302,7 @@ tags$div(class = "category-row",
 
 :::{.column-page}
 
-<center> <h1>{{< fa earth-oceania >}} We value</h1> </center>
+<center> <h1>{{< fa earth-oceania >}} Nuestros valores</h1> </center>
 
 :::
 
@@ -317,21 +315,21 @@ tags$div(class = "category-row",
 tags$div(class = "values-row",
          
 create_values_box1(
-  value = "\    Openness",
+  value = "\    Conocimiento abierto",
   icon = "fas fa-book-open",
-  text = "Data are most useful when they are widely available and easy to use. We try to encourage the sharing of tools that make data from the Atlas of Living Australia more open and useful for everyone"
+  text = "Conocimiento científico es un activo de los pueblos de América Latina, queines los financian y lo necesitan. Incentivamos la publicación abierta y el compartir de datos e informaciones que permitan que la ciencia ecológica prospere"
 ),
 
 create_values_box2(
-  value = "\    Scientific transparency",
+  value = "\    Ciencia Robusta",
   icon = "fas fa-dna",
-  text = "Transparency is necessary for reproducible science. We encourage that decisions, methods and deviations are clear and transparent in a workflow from the planning phase, to the retrieval and analysis of data, to the final output"
+  text = "La ciencia ecológica es crítica para informar políticas públicas y por ello debe ser robusta en sus métodos, propósitos y conclusiones."
 ),
 
 create_values_box3(
-  value = "\    Robust methods",
-  icon = "far fa-chart-bar",
-  text = "No method or analytic procedure is perfect. We value consideration for strengths and limitations of each method or analysis. This attitude helps researchers choose methods that provide robust results for their specific question"
+  value = "\    Unión Latinoamericana",
+  icon = "fas fa-network-wired",
+  text = "Hacemos ecología desde y para el Sur, por lo tanto, unir fuerzas y pensar acciones es más que una oportunidad, pero una obligación"
 )
 
 )

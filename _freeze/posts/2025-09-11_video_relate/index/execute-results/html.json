@@ -1,0 +1,15 @@
+{
+  "hash": "23e093e9a898d30f10adcccbc91a954c",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Lanzan la Red Latinoamericana de Ecología\"\ndescription: |\n  Video producido por la Universidad de Xinhua, China.\nauthors:\n  - name: \"\"\n  - name: \"\"\ndate: \"2025-09-11\"\ntitle-block-banner: \"#B8573E\"\ntoc: true\ntoc-location: left\ntoc-depth: 2\ncategories: \"\"\nimage: video_shot.png\nfreeze: true\nengine: knitr\njupyter: python3\ndraft: false\neditor_options: \n  chunk_output_type: console\n---\n\n\n\n\n\n\n<iframe width=\"1014\" height=\"570\" src=\"https://www.youtube.com/embed/GQLRdRfy8Js\" title=\"Lanzan primera Red Latinoamericana de Ecología\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

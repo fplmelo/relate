@@ -1,6 +1,6 @@
 ---
-title: "Posts"
-subtitle: "How-to articles to solve scientific problems"
+title: "Noticias"
+subtitle: "Ecología en America Latina"
 listing:
   sort-ui: true
   sort: 
@@ -8,9 +8,9 @@ listing:
     - "title desc"
   type: default
   date-format: medium
-  categories: true
+  # categories: true
   page-size: 9
-  fields: [image, author, title, description, date, reading-time]
+  # fields: [image, author, title, description, date, reading-time]
 title-block-banner: "#E06E53"
 title-block-banner-color: body
 page-layout: full

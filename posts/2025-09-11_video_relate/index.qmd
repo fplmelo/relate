@@ -1,0 +1,29 @@
+---
+title: "Lanzan la Red Latinoamericana de Ecología"
+description: |
+  Video producido por la Universidad de Xinhua, China.
+authors:
+  - name: ""
+  - name: ""
+date: "2025-09-11"
+title-block-banner: "#B8573E"
+toc: true
+toc-location: left
+toc-depth: 2
+categories: ""
+image: video_shot.png
+freeze: true
+engine: knitr
+jupyter: python3
+draft: false
+editor_options: 
+  chunk_output_type: console
+---
+
+```{r}
+#| include: false
+library(htmltools)
+```
+
+
+<iframe width="1014" height="570" src="https://www.youtube.com/embed/GQLRdRfy8Js" title="Lanzan primera Red Latinoamericana de Ecología" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
