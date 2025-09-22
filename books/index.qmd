@@ -1,6 +1,6 @@
 ---
-title: "Carta"
-subtitle: "Long-form resources by the Science & Decision Support Team"
+title: "Nace la red"
+subtitle: "Carta de fundación RelatE"
 title-block-banner: "#E06E53"
 title-block-banner-color: body
 toc: false
