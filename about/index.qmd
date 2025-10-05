@@ -1,6 +1,6 @@
 ---
-title: "About"
-subtitle: Role and membership of the ALA Science & Decision Support Team
+title: "Sobre nosotros"
+subtitle: Las personas abajo somos las que estamos trabajando para consolidar la RelatE inicialmente
 format: 
   html: 
     include-after-body: _footer.html
@@ -20,59 +20,53 @@ source("../R/functions.R")
 ```
 
 
-### We are responsible for:  
+### Nuestras tareas son:  
 
-- Data analysis & reporting on key projects
-- R package development & maintenance
-- Outreach & engagement with the research community
+- Comunicación entre Sociedades de Ecología
+- Divulgación de eventos
+- Creación y consolidación de estatutos
 
 
 
-# Meet the team
+# Quienes somos
 
-*Click on photos to view their articles and contributions*
+*Haga click en las fotos*
 ```{r}
 #| echo: false
 tags$div(class = "row",# Create a row for 3 team-member cards
          
 create_team_card(
-  person_page = "Westgate_Martin/index.html",
-  img_src = "../images/people/martin.jpg",
-  name = "Martin Westgate",
-  text = "Team Leader"
+  person_page = "maria_noel/index.html",
+  img_src = "../images/people/maria.png",
+  name = "María Noel Clerici Hirschfeld",
+  text = "Jefa Suprema"
 ),
 create_team_card(
-  person_page = "Balasubramaniam_Shandiya/index.html",
-  img_src = "../images/people/shandiya.png",
-  name = "Shandiya Balasubramaniam",
-  text = "Data Analyst"
+  person_page = "lucas/index.html",
+  img_src = "../images/people/lucas.png",
+  name = "Lucas Enrico",
+  text = "Riverplate"
 ),
 create_team_card(
-  person_page = "Buyan_Amanda/index.html",
-  img_src = "../images/people/amanda.jpg",
-  name = "Amanda Buyan",
-  text = "Data Analyst"
+  person_page = "felipe/index.html",
+  img_src = "../images/people/felipe.jpg",
+  name = "Felipe Melo",
+  text = "Ministro de la Fiesta"
 )
 )
 tags$div(class = "row", # Create a row for 3 team-member cards
          
 create_team_card(
   person_page = "Kellie_Dax/index.html",
-  img_src = "../images/people/dax.jpg",
-  name = "Dax Kellie",
-  text = "Data Analyst"
+  img_src = "../images/people/laura.png",
+  name = "Laura Yahdjian",
+  text = "Ecóloga de verdad"
 ),
 create_team_card(
-  person_page = "Torresan_Olivia/index.html",
-  img_src = "../images/people/olivia.jpg",
-  name = "Olivia Torresan",
-  text = "Support Officer"
-),
-create_team_card(
-  person_page = "Seers_Juliet/index.html",
-  img_src = "../images/people/juliet.jpg",
-  name = "Juliet Seers",
-  text = "Training & Outreach Coordinator"
+  person_page = "alejandro/index.html",
+  img_src = "../images/people/alejandro.png",
+  name = "Alejandro Baseiro",
+  text = "Parrillero especialista"
 )
 )
 ```

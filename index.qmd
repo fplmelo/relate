@@ -51,7 +51,7 @@ Este es el sitioweb de la Red Latinoamericana de Ecología - RelatE!
 
 <center> 
 
-<img src="images/logos/relate_verde.png"></img> 
+<img src="images/logos/logo_verde_ret.png"></img> 
 
 <span>Somos una red de sociedades científicas de ecología.</span><br>
 

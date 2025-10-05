@@ -46,8 +46,8 @@ website:
         text: "Eventos"
       - href: books/index.qmd
         text: "Blog"
-      - href: gallery/index.qmd
-        text: "Galeria"
+      # - href: gallery/index.qmd
+      #   text: "Galeria"
       - href: https://github.com/fplmelo/relate
         icon: github
   announcement:
