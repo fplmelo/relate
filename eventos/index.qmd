@@ -1,0 +1,30 @@
+---
+title: "Eventos de Ecología en América Latina"
+subtitle: "Hub de eventos por toda nuestra América"
+title-block-banner: "#E06E53"
+title-block-banner-color: body
+toc: false
+format: html  
+freeze: true
+---
+
+<style>
+  d-title {
+    display: none;
+  }
+</style>
+
+:::{.column-page layout="[1,1]" style="float:left;"}
+
+<a href="https://asaeargentina.com.ar/rae2025/">
+![](images/eventos/trinacional.png){style="width:100%;"}
+</a>
+
+# [I Reunión Trinacional de Ecología 5-10 de Octubre 2025](https://asaeargentina.com.ar/rae2025/)
+
+Esta reunión convoca a gran cantidad de investigadores y profesionales de las ciencias ambientales de Argentina, atrayendo también a profesionales de otros países, principalmente de Sudamérica, siendo además un atractivo para estudiantes que buscan acercarse a la ciencia. En esta oportunidad se celebrará una reunión trinacional, con la participación de las comunidades de ecología de Uruguay, Chile y Argentina.
+
+:::
+
+***
+

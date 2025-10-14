@@ -1,8 +1,9 @@
 ---
 toc: false
+lang: es
 format: 
   html: 
-    include-in-header: hero-image.html
+    # include-in-header: hero-image.html
     include-after-body: _footer.html
     sidebar: false
     anchor-sections: false

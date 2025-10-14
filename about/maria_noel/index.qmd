@@ -1,5 +1,6 @@
 ---
 title: "Maria Noel Clerici Hirschfeld"
+lang: es
 #include-after-body: _footer.html
 ---
 

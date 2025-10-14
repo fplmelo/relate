@@ -3,7 +3,7 @@ title: "Sobre nosotros"
 subtitle: Las personas abajo somos las que estamos trabajando para consolidar la RelatE inicialmente
 format: 
   html: 
-    include-after-body: _footer.html
+     include-after-body: _footer.html
 title-block-banner: "#E06E53"
 title-block-banner-color: body
 ---
