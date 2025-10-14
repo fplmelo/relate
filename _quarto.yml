@@ -42,9 +42,9 @@ website:
           text: "ASAE-Argentina"
         - href: https://www.socecol.cl/
           text: "SOCECOL-Argentina"
-      - href: software/index.qmd
+      - href: eventos/index.qmd
         text: "Eventos"
-      - href: books/index.qmd
+      - href: blog/index.qmd
         text: "Blog"
       # - href: gallery/index.qmd
       #   text: "Galeria"
