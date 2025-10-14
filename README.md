@@ -1,13 +1,11 @@
-# ALA Labs <a href="https://labs.ala.org.au/"><img class = "rounded" src="twitter-card-preview_frog-small.png" align="right" style="margin: 20px 10px 20px 10px;" alt="" height="200"/></a>
+# RelatE <a href="https://labs.ala.org.au/"><img class = "rounded" src="logo_verde.png" align="right" style="margin: 20px 10px 20px 10px;" alt="" height="200"/></a>
 
-[https://labs.ala.org.au/](https://labs.ala.org.au/)
+[https://relatecologia.org/](https://relatecologia.org/)
 
-This is the GitHub repository for the ALA Labs website. ALA Labs provides resources and articles from the Atlas of Living Australia's Science and Decision Support team. On the website, you can find:
+Este é o website da Rede Latinoamericana de Ecologia
 
-  *  **Posts**: Code, articles, analyses and visualisations that will hopefully help you in your own work
-  *  **Research**: Highlighted summaries of scientific research that has used data from the Atlas of Living Australia
-  *  **Software**: R & Python packages that the Science & Decision Support team manage
-  *  **Books**: Long-form resources with best-practice data wrangling and visualisation
-  *  **Gallery**: Showcasing work that uses tools from ALA Labs
+  *  **Notícias**: o que acontece no mundo latinoamericano e que tem a ver com ecologia
+  *  **Spciedades**: Links para as sociedades membro da RelatE
+  *  **Eventos**: Cursos, congresso e mais
+  *  **Blog**: Textos produzidos para o site
 
-We are happy to take suggestions for future posts or how-to articles. To send a suggestion, please email support@ala.org.au.
