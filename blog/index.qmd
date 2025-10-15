@@ -9,13 +9,6 @@ format: html
 freeze: true
 ---
 
-<style>
-  d-title {
-    display: none;
-  }
-</style>
-
-:::{.column-page layout="[35,65]" style="margin-left: auto; margin-right: auto;"}
 
 <a href="">
 ![](images/foto_funda.jpeg){style="width:95%;margin-left: auto;margin-right: auto;"}
@@ -26,9 +19,7 @@ freeze: true
 
 
 Reunidos en la Ciudad de México durante el Coloquio Internacional Perspectivas de la Ecología en América Latina (entre el 23 y 25 de junio de 2025), representantes de sociedades científicas e instituciones dedicadas a la ecología de distintos países, entienden que es momento de crear una asociación que aborde los desafíos de la ecología en cuanto disciplina científica y sus aplicaciones socioambientales. La creación de la Red Latinoamericana de Ecología (Red EcoLat) responde a la necesidad de articular esfuerzos, experiencias y saberes entre comunidades científicas de la región, promoviendo el fortalecimiento de vínculos académicos horizontales, la producción colaborativa de conocimiento y la visibilización de perspectivas situadas con centro en el Sur Global. En un contexto de crecientes desafíos
-sociales, ambientales y epistemológicos, una red científica latinoamericana de ecología representa un instrumento fundamental para fortalecer la ecología latinoamericana, fomentar el intercambio crítico, la cooperación regional y la incidencia colectiva en los debates contemporáneos. 
-
-La Red Latinoamericana de Ecología se basa en la horizontalidad, fomentando relaciones simétricas que valoran la diversidad y la equidad de sus miembros. Busca una incidencia crítica para transformar las realidades estudiadas con ética y compromiso político. Se compromete con la conservación biocultural, reconociendo la interdependencia entre diversidad biológica y cultural, y respetando los territorios y conocimientos comunitarios. Promueve la sostenibilidad socioecológica desde una ecología orientada a la justicia social y ambiental, con una perspectiva crítica, inter y transdisciplinaria latinoamericana. Defiende el compromiso con el bienestar colectivo, promoviendo el conocimiento ecológico como un bien común, abierto y accesible. Además, busca la integración y el fortalecimiento de vínculos
+sociales, ambientales y epistemológicos, una red científica latinoamericana de ecología representa un instrumento fundamental para fortalecer la ecología latinoamericana, fomentar el intercambio crítico, la cooperación regional y la incidencia colectiva en los debates contemporáneos. La Red Latinoamericana de Ecología se basa en la horizontalidad, fomentando relaciones simétricas que valoran la diversidad y la equidad de sus miembros. Busca una incidencia crítica para transformar las realidades estudiadas con ética y compromiso político. Se compromete con la conservación biocultural, reconociendo la interdependencia entre diversidad biológica y cultural, y respetando los territorios y conocimientos comunitarios. Promueve la sostenibilidad socioecológica desde una ecología orientada a la justicia social y ambiental, con una perspectiva crítica, inter y transdisciplinaria latinoamericana. Defiende el compromiso con el bienestar colectivo, promoviendo el conocimiento ecológico como un bien común, abierto y accesible. Además, busca la integración y el fortalecimiento de vínculos
 entre instituciones y comunidades de América Latina mediante la cooperación y el apoyo mutuo. Se acuerdan las siguientes acciones inmediatas a implementar:
 
 1. Convocar a Sociedades e Instituciones dedicadas a la ecología de los demás países de la región a formar parte de la Red.
@@ -49,7 +40,6 @@ Ciudad de México
 - IES (Instituto de Ecología y Sistemática), Cuba
 - IVIC - Sociedad Venezolana de Ecología
 
-:::
 
 
 

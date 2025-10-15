@@ -3,7 +3,7 @@ toc: false
 lang: es
 format: 
   html: 
-    # include-in-header: hero-image.html
+    include-in-header: hero-image.html
     include-after-body: _footer.html
     sidebar: false
     anchor-sections: false
@@ -27,16 +27,9 @@ source("R/functions.R")
 :::{.column-screen}
 :::{.column-body}
 
-# Bienvenidos a RelatE
-
-Este es el sitioweb de la Red Latinoamericana de Ecología - RelatE!
-
-<br>
-
 :::
 :::
 
-***
 
 
 :::{.column-screen}
@@ -77,8 +70,7 @@ Este es el sitioweb de la Red Latinoamericana de Ecología - RelatE!
 
 :::{.home-column-text .col-right}
 
-<center> <h1 class="heading-home" style="color: #fff;">Notícias</h1>
-<span style = "color: #fff; font-style: italic">Ecologías desde el Sur</span> 
+<center> <h1 class="heading-home" style="color: #fff;">Ecologías desde el Sur</h1>
 </center>
 
 
@@ -87,9 +79,9 @@ tags$div(class = "category-row",
          
   tags$div( 
     class = "category-column",
-    tags$a(href = "posts/index.html#category=Summaries",
+    tags$a(href = "eventos/index.html",
       tags$img(
-        href = "posts/index.html#category=Summaries",
+        href = "eventos/index.html",
         src = "images/vectors/calendar.svg",
         style = "color:#fff !important;",
         class = "category-image honey-white"
