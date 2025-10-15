@@ -1,9 +1,8 @@
 ---
 title: "Sobre nosotros"
+lang: es
 subtitle: Las personas abajo somos las que estamos trabajando para consolidar la RelatE inicialmente
-format: 
-  html: 
-     include-after-body: _footer.html
+format: html 
 title-block-banner: "#E06E53"
 title-block-banner-color: body
 ---
@@ -43,7 +42,7 @@ create_team_card(
 ),
 create_team_card(
   person_page = "lucas/index.html",
-  img_src = "../images/people/lucas.png",
+  img_src = "../images/people/lucas.jpg",
   name = "Lucas Enrico",
   text = "Riverplate"
 ),
@@ -57,7 +56,7 @@ create_team_card(
 tags$div(class = "row", # Create a row for 3 team-member cards
          
 create_team_card(
-  person_page = "Kellie_Dax/index.html",
+  person_page = "laura/index.html",
   img_src = "../images/people/laura.png",
   name = "Laura Yahdjian",
   text = "Ecóloga de verdad"

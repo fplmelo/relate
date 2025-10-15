@@ -6,7 +6,7 @@ project:
     - "!archive/"
 
 website:
-  title: "RelatE"
+  title: ""
   description: "Red Latinoamericana de Ecología/Rede Latino-americana de Ecologia"
   # open-graph:
   #   image: twitter-card-preview_frog-small.png
@@ -15,7 +15,7 @@ website:
   #   image: twitter-card-preview_frog-small.png
   #   image-alt: "A Southern Brown Tree Frog with the ALA Labs logo"
   #   card-style: summary_large_image
-  site-url: https://labs.ala.org.au/
+  site-url: https://redecologia.org/
   # favicon: images/favicon.ico
   draft-mode: unlinked
   navbar:
@@ -23,7 +23,7 @@ website:
     foreground: "#FFFFFF"
     title: ""
     search: true
-    # logo: images/logos/relate_marrom2.jpeg
+    logo: images/logos/logo_branca_clip.png
     right:
       - href: index.qmd
         icon: house-door-fill
@@ -34,14 +34,16 @@ website:
         text: "Noticias"
       - text: "Sociedades"
         menu:
-        - href: https://abeco.org.br/
-          text: "ABECO-Brasil"
-        - href: https://scme.mx/
-          text: "SCME-México"
         - href: https://www.asaeargentina.com.ar/
           text: "ASAE-Argentina"
+        - href: https://abeco.org.br/
+          text: "ABECO-Brasil"
         - href: https://www.socecol.cl/
-          text: "SOCECOL-Argentina"
+          text: "SOCECOL-Chile"
+        - href: https://scme.mx/
+          text: "SCME-México"
+        - href: https://svecologia.org/
+          text: "SVE-Venezuela"
       - href: eventos/index.qmd
         text: "Eventos"
       - href: blog/index.qmd
@@ -53,7 +55,7 @@ website:
   announcement:
     icon: info-circle
     dismissable: true
-    content: "Estamos inciando nuestras actividades"
+    content: "Estamos inciando nuestras actividades. Súmate!"
     type: light
     position: below-navbar
 

@@ -84,11 +84,39 @@
     "text": "Order By\n      Default\n      \n        Title\n      \n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Author\n      \n    \n  \n\n\n\n\n\n\n\n\n\n\nLanzan la Red Latinoamericana de Ecología\n\n\nVideo producido por la Universidad de Xinhua, China.\n\n\n\n\n\nSep 11, 2025\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "\nEcologías desde el Sur\n",
-    "section": "",
-    "text": "Somos una red de sociedades científicas de ecología.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nEventos\n\n\n\n\n\n\n\nArtículos\n\n\n\n\n\n\n\nProyetos\n\n\n\n\n\n\n\n\n\n\n\n  \n\n\n\n\nPeriódicos Científicos\n\nLista de periódicos en ecología publicados por países latinoamericanos\n\n\n\n\n\n\n\n\n\nCarta de fundación\n\nLea aquí la carta de fundación de la RelatE\n\n\n\n\n\n\n\n\n\nCarta\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Nuestros valores\n\n\n\n\n\n\n\n\n\n\n\n    Conocimiento abierto\n\nConocimiento científico es un activo de los pueblos de América Latina, queines los financian y lo necesitan. Incentivamos la publicación abierta y el compartir de datos e informaciones que permitan que la ciencia ecológica prospere\n\n\n\n\n\n\n    Ciencia Robusta\n\nLa ciencia ecológica es crítica para informar políticas públicas y por ello debe ser robusta en sus métodos, propósitos y conclusiones.\n\n\n\n\n\n\n    Unión Latinoamericana\n\nHacemos ecología desde y para el Sur, por lo tanto, unir fuerzas y pensar acciones es más que una oportunidad, pero una obligación"
+    "objectID": "index.html#perspectives-in-ecology-and-conservation",
+    "href": "index.html#perspectives-in-ecology-and-conservation",
+    "title": "Somos una red de sociedades científicas en Ecología de América Latina",
+    "section": "Perspectives in Ecology and Conservation",
+    "text": "Perspectives in Ecology and Conservation"
+  },
+  {
+    "objectID": "index.html#ecología-austral",
+    "href": "index.html#ecología-austral",
+    "title": "Somos una red de sociedades científicas en Ecología de América Latina",
+    "section": "Ecología Austral",
+    "text": "Ecología Austral"
+  },
+  {
+    "objectID": "index.html#revista-chilena-de-historia-natural",
+    "href": "index.html#revista-chilena-de-historia-natural",
+    "title": "Somos una red de sociedades científicas en Ecología de América Latina",
+    "section": "Revista Chilena de Historia Natural",
+    "text": "Revista Chilena de Historia Natural"
+  },
+  {
+    "objectID": "index.html#ecotrópicos",
+    "href": "index.html#ecotrópicos",
+    "title": "Somos una red de sociedades científicas en Ecología de América Latina",
+    "section": "Ecotrópicos",
+    "text": "Ecotrópicos"
+  },
+  {
+    "objectID": "index.html#oecologia-australis",
+    "href": "index.html#oecologia-australis",
+    "title": "Somos una red de sociedades científicas en Ecología de América Latina",
+    "section": "Oecologia Australis",
+    "text": "Oecologia Australis"
   },
   {
     "objectID": "eventos/index.html",
@@ -102,14 +130,14 @@
     "href": "about/maria_noel/index.html",
     "title": "Maria Noel Clerici Hirschfeld",
     "section": "",
-    "text": "Bio\n\n\n\n\n\n\n\n\n\n\n\n\n\nMartin leads the Science & Decision Support Team. He holds a doctorate in landscape ecology and conservation biology from the Australian National University. His work focuses on conceptual, computational and statistical tools to better understand patterns in nature.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Posts\nHex maps for species occurrence data Hex maps are a neat way to represent spatial information. Here, we show how to draw one using the most common species in the ALA database: the iconic Australian Magpie.\nSunburst plots for taxonomic data Since version 1.3.1 of galah, it has been possible to download taxonomic data using a ‘tree’ format from the data.tree package. Here I’ll demonstrate some ideas for plotting these trees using circular diagrams.\nCreating a color palette from an image There are hundreds of color palettes in the R ecosystem, but sometimes we might want to use colors from a specific image. Here I show how to use the paletter package to create a color palette for the 2020 Eucalypt of the Year: the Western Australian Gimlet."
+    "text": "Bio\n\n\n\n\n\n\n\n\n\n\n\n\n\nBio de María\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Posts"
   },
   {
     "objectID": "about/laura/index.html",
     "href": "about/laura/index.html",
-    "title": "Dax Kellie",
+    "title": "Laura Yahdjian",
     "section": "",
-    "text": "Bio\n\n\n\n\n\n\n\n\n\n\n\n\n\nDax is an evolutionary biologist, with a PhD in biological sciences and social psychology. As a data analyst and science lead at the ALA, he tries to make data in the ALA accessible for scientists to use in ways that are robust and transparent.  Dax is the primary editor of ALA Labs.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Posts\nAdd a buffer to a shapefile and account for obscured species locations Knowing what species have been observed in a local area is a regular task for ecosystem management. Here we show how to add a buffer to a shapefile using {shapely} and {geopandas}. We then demonstrate how data that have been obfuscated (i.e. their location has been made less precise) may affect the buffer size required to more confidently capture threatened species in the area using {galah-python} and {matplotlib}.\nDownload a species list and cross-reference with conservation status lists in R Knowing what species have been observed in a local area is a regular task for ecosystem management. Here we show how to make a species list and how to cross-reference this list with threatened and sensitive species lists. We show how to do this task using 2 methods, with {galah} and using an external shapefile and species list. We then show how to visualise this information as a bar chart and a waffle chart using {ggplot2}.\nModelling the impact of fire on the Southern Greater Glider Major fire events impact flora and fauna, particularly in areas where fire can dramatically reshape the livable habitat area. Here we investigate how greater gliders, a tree-dwelling marsupial species, were impacted by the 2019-2020 bushfires using {tidymodels} and {tidysdm}.\nShow seasonal species trends using a ridgeline plot Displaying ecological trends of many species or groups at once can sometimes appear messy or crowded. In this post we show how ridgeline plots are a useful way to show trends in seasonality by displaying observations of migratory bird species over the year using {ggridges}.\nAn introduction to species distribution modelling using {tidysdm} & {tidymodels} Species distribution modelling is a common task for ecologists in R. Here we show the fundamental steps to build, assess and use models to predict species distributions using {tidymodels} & {tidysdm}, modern packages that use tidy syntax to run and plot geospatial models.\nDownload a species list and cross-reference with conservation status lists Knowing what species have been observed in a local area is an important, regular task for ecosystem management and environmental impact assessment. Here we show how to make a species list with {galah-python} and how to cross-reference this list with threatened and sensitive species lists. We also show how to visualise this information as a waffle chart using {pywaffle} & {matplotlib}.\nBeginner’s guide to making a quick map of species occurrences in Python and R The ability to make a map quickly is an essential skill in ecology and conservation. This post shows how to make a quick, simple map of Peron’s tree frog occurrences & set a custom font using either Python or R.\nAlternatives to box plots: Using beeswarm and raincloud plots to summarise ecological data Box plots are a common way to summarise data in ecology and biology research, but box plots have their weaknesses. Here we’ll show how easy it can be to make beeswarm and raincloud plots—two alternatives with greater data transparency—using plant trait data from {austraits}.\nPlotting invasive species distributions with alpha shapes and choropleth maps in Python Invasive and introduced species can expand quickly into new habitats, altering ecosystems. In this post we use Python’s {galah}, {alphashape} and {GeoPandas} packages to visualise the growing distribution of Rhinella marina (cane toads) and the expanding range of Pittisporum undulatum in Australia.\nMake a highlighted time-series plot Time-series analyses can be handy for seeing trends over time, and exploring how trends relate to major events. Here, we show how to create an exploratory time-series plot comparing observations of waterbirds prior to and during the COVID-19 pandemic.\nAnimated species distribution maps with {gifski} One useful way to see changes in a species’ habitat range over time is by using animation to view multiple distributions in succession. Here we will model the distribution of Nudibranchia across Australia each month to create an animated GIF of its distribution over a year.\nCounting points in multipolygon shapefiles for choropleth mapping Choropleth maps are an excellent way to visualise numbers of observations in each region. When using point data, calculating the number of points in each polygon can be difficult when using shapefiles. Here we demonstrate how to extract and summarise the number of points in each polygon within a shapefile to create a choropleth map.\nQuantify geographic sampling bias with {sampbias} Human biases play a large role in the data we collect about species. Here we show a simple method to quantify the bias of roads, cities, rivers and airports on species observations of legless lizards in the Northern Territory\nDownload plant species data by hexagon to make a 3D hex map Making plots eye-catching can be useful for science communication. Here, we show how to make 3D plots in R with the rayshader package by visualising the number of species identified from ALA observations since 2020"
+    "text": "Bio\n\n\n\n\n\n\n\n\n\n\n\n\n\nMis intereses de investigación se encuentran en el área de la ecología de ecosistemas terrestres, con un enfoque en preguntas a nivel de ecosistema que incluyen la producción primaria, la dinámica agua-ecosistema y, más recientemente, los efectos de las invasiones de plantas exóticas sobre el ciclo de nutrientes del suelo y la sucesión. Mis sitios de trabajo abarcan una variedad de ecosistemas naturales y modificados por el ser humano en la región de la Patagonia y la Pampa en Argentina, donde investigo los controles sobre la descomposición de la hojarasca, los ciclos biogeoquímicos y los posibles impactos del cambio global. Trabajo en el Instituto de Fisiología y Ecología Vegetal Agrícola (IFEVA), donde he trabajado durante varios años. Soy Profesora Asistente en el Departamento de Ecología e Investigador Científico de la Facultad de Agronomía de la Universidad de Buenos Aires y del Consejo Nacional de Investigaciones Científicas y Técnicas (CONICET).\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Posts"
   },
   {
     "objectID": "about/felipe/index.html",
@@ -128,9 +156,9 @@
   {
     "objectID": "about/alejandro/index.html",
     "href": "about/alejandro/index.html",
-    "title": "Juliet Seers",
+    "title": "Alejandro Braseiro",
     "section": "",
-    "text": "Bio\n\n\n\n\n\n\n\n\n\n\n\n\n\nJuliet specialises in education and engagement in the environmental sector. Her work as the Training & Outreach Coordinator at the ALA involves identifying and addressing knowledge gaps users have with ALA’s use and functionality, and helping to elevate ALA’s profile with our stakeholders.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Posts"
+    "text": "Bio\n\n\n\n\n\n\n\n\n\n\n\n\n\nProfesor Agregado en Facultad de Ciencias, Universidad de la República.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Posts"
   },
   {
     "objectID": "about/index.html",
@@ -142,9 +170,9 @@
   {
     "objectID": "about/lucas/index.html",
     "href": "about/lucas/index.html",
-    "title": "Shandiya Balasubramaniam",
+    "title": "Lucas Enrico",
     "section": "",
-    "text": "Bio\n\n\n\n\n\n\n\n\n\n\n\n\n\nShandiya is an evolutionary ecologist with interests in conservation genetics and wildlife disease. She is the Decision Support Program Lead. Her work as a data analyst at the ALA focuses on streamlining reproducible pathways for researchers to access and analyse open data.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Posts\nAn introduction to species distribution modelling using {tidysdm} & {tidymodels} Species distribution modelling is a common task for ecologists in R. Here we show the fundamental steps to build, assess and use models to predict species distributions using {tidymodels} & {tidysdm}, modern packages that use tidy syntax to run and plot geospatial models.\nCombining multiple species distributions on one map with hexagons and points Visualising multiple species distributions in a single figure can be difficult if there are areas where ranges overlap. In this post we introduce a way to show several species distributions in an area at once using a novel twist on the commonly used hexbin map.\nAlternatives to box plots: Using beeswarm and raincloud plots to summarise ecological data Box plots are a common way to summarise data in ecology and biology research, but box plots have their weaknesses. Here we’ll show how easy it can be to make beeswarm and raincloud plots—two alternatives with greater data transparency—using plant trait data from {austraits}.\nMultiple colour scales in choropleth maps with {ggnewscale} Using multiple colour scales can be a great way to visually differentiate between geographic categories on a map. Here, we demonstrate this by creating a choropleth map to represent the density of plant records from the ALA across bioregions in Australia, and add multiple colour scales to differentiate marine and terrestrial records"
+    "text": "Bio\n\n\n\n\n\n\n\n\n\n\n\n\n\nEl Dr. Enrico es biólogo, profesor en la Universidad Nacional de Córdoba e investigador en el Consejo Nacional de Investigaciones Científicas y Técnicas de Argentina. Sus actividades docentes se centran en Biogeografía y Ecología de Comunidades y Ecosistemas. Su investigación se enfoca en herbivoría, ecología de ecosistemas, servicios ecosistémicos y uso sostenible de los recursos naturales. Es miembro de la Escuela de Biología de la Universidad Nacional de Córdoba. Ha trabajado como consultor para diferentes organismos gubernamentales.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Posts"
   },
   {
     "objectID": "blog/index.html",
