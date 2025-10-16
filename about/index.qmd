@@ -66,7 +66,23 @@ create_team_card(
   img_src = "../images/people/alejandro.png",
   name = "Alejandro Baseiro",
   text = "Parrillero especialista"
+),
+create_team_card(
+  person_page = "nico/index.html",
+  img_src = "../images/people/nico.png",
+  name = "Nicolás Urbina",
+  text = "Cumbiero"
+),
 )
+tags$div(class = "row", # Create a row for 3 team-member cards
+
+create_team_card(
+  person_page = "wesley/index.html",
+  img_src = "../images/people/wesley.png",
+  name = "Wesley Dáttilo",
+  text = "Safadão"
 )
+)      
+
 ```
 

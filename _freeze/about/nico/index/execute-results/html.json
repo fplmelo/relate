@@ -1,0 +1,15 @@
+{
+  "hash": "83735d7e87a56550ac55f6fbb5b7c666",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Nicolás Urbina\"\nlang: es\n# include-after-body: _footer.html\n---\n\n\n\n### {{< fa circle-user >}} Bio \n\n:::{.bio-row}\n:::{.bio-column-right}\n\n\n::: {.cell}\n::: {.cell-output-display}\n![](../../images/people/nico.png){width=275px style=\"display:block; margin-left:auto; margin-right:auto; clip-path: circle();\"}\n:::\n:::\n\n:::\n\n:::{.bio-column-left}\nEcólogo de la Pontificia Universidad Javeriana (1997-2002), y Doctor en Ciencias Biológicas de la Universidad Nacional Autónoma de México (UNAM; 2002-2007). Experiencia postdoctoral en el Museo de Zoología-UNAM (2007-2008). Fue el Coordinador de Servicios Ecosistémicos en Conservation International, Colombia (2008-2011), liderando proyectos en gestión de la biodiversidad y políticas públicas en ordenamiento territorial, offsets de biodiversidad, y conservación. Es Profesor Asociado en la Facultad de Estudios Ambientales y Rurales de la Pontificia Universidad Javeriana desde 2011, y fue director del pregrado en Ecología (2012-2015). Fue el Coordinador Regional para Colombia del Grupo de Especialistas en Anfibios de la UICN, contribuyendo a la evaluación del riesgo de extinción de más de 820 especies para el país y a la elaboración del “Programa Nacional para la Conservación de los anfibios en Colombia y su Plan de Acción 2025-2034”. Actualmente es Copresidente Global del grupo de trabajo sobre protección y manejo de hábitat del Grupo de Especialistas en Anfibios de la UICN donde participa en la actualización del Plan de Acción para la Conservación Global de Anfibios (ACAP). Fue miembro de la junta directiva de la Asociación Colombiana de Herpetología. Nicolás es cofundador de la iniciativa de apropiación social del conocimiento: “Ciencia pa'sumercé” y actualmente apoya la divulgación científica desde la Fundación Macana. Ha publicado 85 artículos científicos, 30 capítulos de libros y seis libros, y es editor asociado en tres revistas científicas (Perspectives in Ecology and Conservation, Tropical Conservation Science, y Acta Biológica Colombiana). Actualmente es el editor principal del libro de Springer “Andean Herpetofauna - Explorations of Diversity, Ecology, and Conservation”.\n:::\n:::\n\n:::{.column-body style=\"margin-top:-20px;\"}\n\n::: {.cell}\n::: {.cell-output-display}\n\n```{=html}\n<div class=\"row\" style=\"display: flex;\">\n<div class=\"button-column\">\n<a href=\"https://perfilesycapacidades.javeriana.edu.co/es/persons/nicolas-urbina-cardona\" style=\"border-bottom: none\">\n<button class=\"button-2\">\n<i class=\"fas fa-globe fa-xl\"></i>\n</button>\n</a>\n</div>\n</div>\n```\n\n:::\n:::\n\n:::\n\n\n### {{< fa newspaper >}} Posts \n\n\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

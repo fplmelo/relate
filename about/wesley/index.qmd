@@ -1,0 +1,46 @@
+---
+title: "Wesley Dáttilo"
+lang: es
+# include-after-body: _footer.html
+---
+
+```{r, include=FALSE}
+library(htmltools)
+library(here)
+source(here("R", "functions.R"))
+```
+
+### {{< fa circle-user >}} Bio 
+
+:::{.bio-row}
+:::{.bio-column-right}
+
+```{r out.width='275px', out.extra='style="display:block; margin-left:auto; margin-right:auto; clip-path: circle();"'}
+#| echo: false
+knitr::include_graphics("~/relate/images/people/wesley.png")
+```
+:::
+
+:::{.bio-column-left}
+Biólogo por la Universidade Estadual do Norte Fluminense (Brasil), maestro en Ecología y Conservación de la Biodiversidad por la Universidade Federal de Mato Grosso (Brasil) y doctor en Neuroetología por la Universidad Veracruzana (México). Es miembro del Sistema Nacional de Investigadores (SNI) nivel 3 e Investigador Titular C en el Instituto de Ecología A.C. (INECOL, México), donde trabaja desde 2015. En los últimos años, sus investigaciones se han centrado en la ecología térmica de insectos y el cambio climático a lo largo de gradientes de elevación, integrando datos de tolerancia térmica, distribución espacial y el papel de las interacciones bióticas en la persistencia de las especies. Su laboratorio combina modelación matemática, teoría de redes ecológicas, extensos inventarios de campo y grandes bases de datos para comprender la dinámica ecológica y evolutiva de las interacciones entre especies y su importancia en la conservación de la biodiversidad. Ha formado numerosos estudiantes de licenciatura, maestría y doctorado, varios de los cuales hoy son investigadores e investigadoras en diferentes países. Actualmente editor de área en Ecological Monographs, Food Webs, Sociobiology y Network Biology, y ha publicado más de 200 artículos en revistas científicas indexadas. Ha sido editor de libros sobre redes de interacciones en ambientes tropicales y sobre los efectos del cambio climático en insectos. También trabaja en temas relacionados con la descolonización de la ecología en América Latina, promoviendo una ciencia más inclusiva, diversa y socialmente comprometida.
+:::
+:::
+
+:::{.column-body style="margin-top:-20px;"}
+```{r}
+#| echo: false
+
+tags$div(class = "row", style = "display: flex;",
+         
+create_button(
+  icon = "fas fa-globe fa-xl",
+  url = "http://www.wesleydattilo.org/"
+),
+)
+```
+:::
+
+
+### {{< fa newspaper >}} Posts 
+
+
