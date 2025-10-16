@@ -18,12 +18,14 @@ library(htmltools)
 source("../R/functions.R")
 ```
 
+### Somos las personas que se reunieron incialmente pra fundar la **RelatE** y luego que tengamos la red consolidada, habrá mecanismos democráticos de elección de la primera junta directiva.
 
 ### Nuestras tareas son:  
 
 - Comunicación entre Sociedades de Ecología
 - Divulgación de eventos
 - Creación y consolidación de estatutos
+
 
 
 
