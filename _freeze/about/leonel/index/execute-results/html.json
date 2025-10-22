@@ -1,0 +1,15 @@
+{
+  "hash": "6276d0440f35c0f58c93cd4617a64a2a",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Leonel Sierralta\"\nlang: es\n# include-after-body: _footer.html\n---\n\n\n\n### {{< fa circle-user >}} Bio \n\n:::{.bio-row}\n:::{.bio-column-right}\n\n\n::: {.cell}\n::: {.cell-output-display}\n![](../../images/people/leonel.png){width=275px style=\"display:block; margin-left:auto; margin-right:auto; clip-path: circle();\"}\n:::\n:::\n\n:::\n\n:::{.bio-column-left}\nProfesor de Biología y Ciencias Naturales, PUC, Master of Science. Instituto Agronómico Mediterráneo (IAMZ), Zaragoza, España, estudios de doctorado en Ecología, PUC. Su experiencia profesional, después de salir de la academia, se ha centrado en la gestión ambiental pública y privada. Participó en la discusión y redacción de la Ley de Bases del Medio Ambiente, junto al equipo del Centro de Estudios Públicos (CEP). Luego desde la CONAMA, como Jefe de Gabinete de la Directora Ejecutiva y como Jefe del nuevo Departamento de Recursos Naturales de la CONAMA, se preparó y presentó la primera estrategia de Biodiversidad para Chile. Fue durante 4 años miembro del consejo consultivo de las CONAMA, periodo en el cual se aprobaron numerosas normas y varios reglamentos ambientales. Volvó al Servicio Público en el 2010, como Jefe de la División de Recursos Naturales, Agua y Residuos. En esa calidad preparó y envió al Congreso Nacional dos proyectos de Ley: El del Servicio de Biodiversidad y Áreas Protegidas (SBAP) ingresado al Senado en Marzo de 2011, hoy a punto de aprobarse, y el de la Ley REP, en septiembre de 2013, aprobado en el año 2016. Actualmente es Jefe de proyectos en GEOBIOTA.\n:::\n:::\n\n:::{.column-body style=\"margin-top:-20px;\"}\n\n::: {.cell}\n::: {.cell-output-display}\n\n```{=html}\n<div class=\"row\" style=\"display: flex;\">\n<div class=\"button-column\">\n<a href=\"https://cl.linkedin.com/in/leonel-gerardo-sierralta-jara-460a0455\" style=\"border-bottom: none\">\n<button class=\"button-2\">\n<i class=\"fa-brands fa-linkedin\"></i>\n</button>\n</a>\n</div>\n</div>\n```\n\n:::\n:::\n\n:::\n\n\n### {{< fa newspaper >}} Posts \n\n\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

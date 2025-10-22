@@ -1,0 +1,15 @@
+{
+  "hash": "0a3384608873b52c6a765f721dc255d3",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Jorge Dayvis\"\nlang: es\n# include-after-body: _footer.html\n---\n\n\n\n### {{< fa circle-user >}} Bio \n\n:::{.bio-row}\n:::{.bio-column-right}\n\n\n::: {.cell}\n::: {.cell-output-display}\n![](../../images/people/wesley.png){width=275px style=\"display:block; margin-left:auto; margin-right:auto; clip-path: circle();\"}\n:::\n:::\n\n:::\n\n:::{.bio-column-left}\nLicenciado en Educación Biología. Profesor de la Disciplina Práctica de Campo en la Facultad de Biología de la Universidad de Ciencias Pedagógicas \"Enrique José Varona\" de La Habana. Curador de la Colección Carcinológica del Instituto de Ecología y Sistemática de Cuba y Jefe del Servicio Científico Técnico Estatal de Colecciones Zoológicas. Especialista en sistemática y ecología de crustáceos de aguas interiores, con experiencia en la evaluación del estado de poblaciones de artrópodos. Su trabajo se centra en el estudio de la calidad de ecosistemas mediante el uso de bioindicadores, contando con un Diplomado en Gestión Ambiental Territorial.\n:::\n:::\n\n:::{.column-body style=\"margin-top:-20px;\"}\n\n::: {.cell}\n::: {.cell-output-display}\n\n```{=html}\n<div class=\"row\" style=\"display: flex;\">\n<div class=\"button-column\">\n<a href=\"https://scholar.google.com/citations?user=x-gzGrEAAAAJ&amp;hl=es\" style=\"border-bottom: none\">\n<button class=\"button-2\">\n<i class=\"fab fa-google\"></i>\n</button>\n</a>\n</div>\n</div>\n```\n\n:::\n:::\n\n:::\n\n\n### {{< fa newspaper >}} Posts \n\n\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

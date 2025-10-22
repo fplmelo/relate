@@ -28,7 +28,7 @@ source("R/functions.R")
 :::{.column-screen style="background-color:#FFFFFF;"}
 :::{.column-body}
 
-# Somos una red de sociedades científicas en Ecología de América Latina
+#
 
 
 ![](images/logos/Relate.png)
@@ -247,7 +247,7 @@ tags$div(class = "values-row",
 create_values_box1(
   value = "\    Conocimiento abierto",
   icon = "fas fa-book-open",
-  text = "Conocimiento científico es un activo de los pueblos de América Latina, queines los financian y lo necesitan. Incentivamos la publicación abierta y el compartir de datos e informaciones que permitan que la ciencia ecológica prospere"
+  text = "El conocimiento científico es un activo de los pueblos de América Latina, quienes lo financian y lo necesitan. Incentivamos la publicación abierta y el compartir datos e informaciones que permitan que la ciencia ecológica prospere."
 ),
 
 create_values_box2(
@@ -259,7 +259,7 @@ create_values_box2(
 create_values_box3(
   value = "\    Unión Latinoamericana",
   icon = "fas fa-network-wired",
-  text = "Hacemos ecología desde y para el Sur, por lo tanto, unir fuerzas y pensar acciones es más que una oportunidad, es una obligación"
+  text = "Hacemos ecología desde y para el Sur, por lo tanto, unir fuerzas y pensar acciones es más que una oportunidad, es una obligación."
 )
 
 )

@@ -18,7 +18,7 @@ library(htmltools)
 source("../R/functions.R")
 ```
 
-### Somos las personas que se reunieron incialmente pra fundar la **RelatE** y luego que tengamos la red consolidada, habrá mecanismos democráticos de elección de la primera junta directiva.
+Somos las personas que se reunieron incialmente pra fundar la **RelatE** y luego que tengamos la red consolidada, habrá mecanismos democráticos de elección de la primera junta directiva.
 
 ### Nuestras tareas son:  
 
@@ -40,19 +40,19 @@ create_team_card(
   person_page = "maria_noel/index.html",
   img_src = "../images/people/maria.png",
   name = "María Noel Clerici Hirschfeld",
-  text = "Jefa Suprema"
+  text = "Uruguay"
 ),
 create_team_card(
   person_page = "lucas/index.html",
   img_src = "../images/people/lucas.jpg",
   name = "Lucas Enrico",
-  text = "Riverplate"
+  text = "Argentina"
 ),
 create_team_card(
   person_page = "felipe/index.html",
   img_src = "../images/people/felipe.jpg",
   name = "Felipe Melo",
-  text = "Ministro de la Fiesta"
+  text = "Brasil"
 )
 )
 tags$div(class = "row", # Create a row for 3 team-member cards
@@ -61,19 +61,19 @@ create_team_card(
   person_page = "laura/index.html",
   img_src = "../images/people/laura.png",
   name = "Laura Yahdjian",
-  text = "Ecóloga de verdad"
+  text = "Argentina"
 ),
 create_team_card(
   person_page = "alejandro/index.html",
   img_src = "../images/people/alejandro.png",
   name = "Alejandro Baseiro",
-  text = "Parrillero especialista"
+  text = "Uruguay"
 ),
 create_team_card(
   person_page = "nico/index.html",
   img_src = "../images/people/nico.png",
   name = "Nicolás Urbina",
-  text = "Cumbiero"
+  text = "Colombia"
 ),
 )
 tags$div(class = "row", # Create a row for 3 team-member cards
@@ -82,9 +82,21 @@ create_team_card(
   person_page = "wesley/index.html",
   img_src = "../images/people/wesley.png",
   name = "Wesley Dáttilo",
-  text = "Safadão"
+  text = "México"
+),
+create_team_card(
+  person_page = "jorge/index.html",
+  img_src = "../images/people/jorge.png",
+  name = "Jorge Dayvis",
+  text = "Cuba"
+),
+create_team_card(
+  person_page = "leonel/index.html",
+  img_src = "../images/people/leonel.png",
+  name = "Leonel Sierralta",
+  text = "Chile"
 )
-)      
+)  
 
 ```
 
