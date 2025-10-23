@@ -1,0 +1,15 @@
+{
+  "hash": "d16ed7c7a1913664c94a9c4e344fea33",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Thomas Lewinsohn\"\nlang: es\n# include-after-body: _footer.html\n---\n\n\n\n### {{< fa circle-user >}} Bio \n\n:::{.bio-row}\n:::{.bio-column-right}\n\n\n::: {.cell}\n::: {.cell-output-display}\n![](../../images/people/thomas.png){width=275px style=\"display:block; margin-left:auto; margin-right:auto; clip-path: circle();\"}\n:::\n:::\n\n:::\n\n:::{.bio-column-left}\nCientista, fotógrafo, músico. As múltiplas atividades culturais e científicas se entrelaçam no exercício poético e visual da fotografia do ecólogo do professor emérito da Unicamp-Brasil.\n:::\n:::\n\n:::{.column-body style=\"margin-top:-20px;\"}\n\n::: {.cell}\n::: {.cell-output-display}\n\n```{=html}\n<div class=\"row\" style=\"display: flex;\">\n<div class=\"button-column\">\n<a href=\"https://scholar.google.com/citations?user=TwK7lywAAAAJ&amp;hl=pt-BR\" style=\"border-bottom: none\">\n<button class=\"button-2\">\n<i class=\"fab fa-google\"></i>\n</button>\n</a>\n</div>\n<div class=\"button-column\">\n<a href=\"https://orcid.org/0000-0001-5950-5343\" style=\"border-bottom: none\">\n<button class=\"button-2\">\n<i class=\"fab fa-orcid\"></i>\n</button>\n</a>\n</div>\n</div>\n```\n\n:::\n:::\n\n:::\n\n\n### {{< fa newspaper >}} Posts \n\n\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

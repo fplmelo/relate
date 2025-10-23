@@ -1,0 +1,15 @@
+{
+  "hash": "de40bf605e27df654627c3d95901a5b0",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Arturo Flores Martínez\"\nlang: es\n# include-after-body: _footer.html\n---\n\n\n\n### {{< fa circle-user >}} Bio \n\n:::{.bio-row}\n:::{.bio-column-right}\n\n\n::: {.cell}\n::: {.cell-output-display}\n![](../../images/people/arturo.png){width=275px style=\"display:block; margin-left:auto; margin-right:auto; clip-path: circle();\"}\n:::\n:::\n\n:::\n\n:::{.bio-column-left}\nEl Dr. Arturo Flores Martínez, investigador y profesor titular C en el Laboratorio de Ecología Vegetal del Departamento de Botánica en la Escuela Nacional de Ciencias Biológicas del Instituto Politécnico Nacional (ENCB-IPN).\n\n:::\n:::\n\n:::{.column-body style=\"margin-top:-20px;\"}\n\n::: {.cell}\n::: {.cell-output-display}\n\n```{=html}\n<div class=\"row\" style=\"display: flex;\">\n<div class=\"button-column\">\n<a href=\"https://scholar.google.com/citations?user=hp-JzswAAAAJ&amp;hl=es\" style=\"border-bottom: none\">\n<button class=\"button-2\">\n<i class=\"fab fa-google\"></i>\n</button>\n</a>\n</div>\n</div>\n```\n\n:::\n:::\n\n:::\n\n\n### {{< fa newspaper >}} Posts \n\n\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

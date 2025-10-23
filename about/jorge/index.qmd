@@ -1,5 +1,5 @@
 ---
-title: "Jorge Dayvis"
+title: "Jorge Deyvis"
 lang: es
 # include-after-body: _footer.html
 ---
@@ -17,7 +17,7 @@ source(here("R", "functions.R"))
 
 ```{r out.width='275px', out.extra='style="display:block; margin-left:auto; margin-right:auto; clip-path: circle();"'}
 #| echo: false
-knitr::include_graphics("~/relate/images/people/wesley.png")
+knitr::include_graphics("~/relate/images/people/jorge.png")
 ```
 :::
 

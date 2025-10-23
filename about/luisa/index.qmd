@@ -1,0 +1,50 @@
+---
+title: "Luisa Maria Diele-Viegas"
+lang: es
+# include-after-body: _footer.html
+---
+
+```{r, include=FALSE}
+library(htmltools)
+library(here)
+source(here("R", "functions.R"))
+```
+
+### {{< fa circle-user >}} Bio 
+
+:::{.bio-row}
+:::{.bio-column-right}
+
+```{r out.width='275px', out.extra='style="display:block; margin-left:auto; margin-right:auto; clip-path: circle();"'}
+#| echo: false
+knitr::include_graphics("~/relate/images/people/luisa.png")
+```
+:::
+
+:::{.bio-column-left}
+Dra Luisa Maria Diele-Viegas é pesquisadora na Michigan State University, professora permanente do Programa de Pós-Graduação em Ecologia: Teoria, Aplicação e Valores da Universidade Federal da Bahia, e consultora do Programa das Nações Unidas para o Desenvolvimento (PNUD), atuando na implementação da Estratégia e Plano de Ação Nacionais para a Biodiversidade (EPANB) no Brasil. Atualmente é a presidente da Associação Brasileira de Ciência Ecológica e Conservação, presidente do capítulo Brasileiro da Organização para Mulheres na Ciência no Mundo em Desenvolvimento (OWSD), co-fundadora e presidente da Rede Kunhã Asé de Mulheres na Ciência e membra do conselho executivo da Sociedade Européia de Biologia Evolutiva, onde lidera o Comitê de Impacto Ambiental. Também é membra da Global Young Academy (GYA), onde lidera o comitê de combate à discriminação, o eixo temático de ecossistemas de ciência e pesquisa, e o grupo de trabalho em ciência aberta, além de ser jovem afiliada da The World Academy of Sciences (TWAS). Lidera o Laboratório de (Bio)Diversidade no Antropoceno (BioDivA Lab), uma rede de pesquisa transdisciplinar que integra diferentes sistemas de conhecimento para enfrentar desafios da conservação da biodiversidade e das mudanças globais por meio de uma ciência aberta, colaborativa e inclusiva.
+:::
+:::
+
+:::{.column-body style="margin-top:-20px;"}
+```{r}
+#| echo: false
+
+tags$div(class = "row", style = "display: flex;",
+         
+create_button(
+  icon = "fab fa-google",
+  url = "https://scholar.google.com/citations?user=__KDV4cAAAAJ&hl=pt-BR"
+),
+create_button(
+  icon = "fab fa-linkedin",
+  url = "https://www.linkedin.com/in/dieleviegaslm/"
+),
+)
+```
+:::
+
+
+### {{< fa newspaper >}} Posts 
+
+

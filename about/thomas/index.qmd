@@ -1,0 +1,50 @@
+---
+title: "Thomas Lewinsohn"
+lang: es
+# include-after-body: _footer.html
+---
+
+```{r, include=FALSE}
+library(htmltools)
+library(here)
+source(here("R", "functions.R"))
+```
+
+### {{< fa circle-user >}} Bio 
+
+:::{.bio-row}
+:::{.bio-column-right}
+
+```{r out.width='275px', out.extra='style="display:block; margin-left:auto; margin-right:auto; clip-path: circle();"'}
+#| echo: false
+knitr::include_graphics("~/relate/images/people/thomas.png")
+```
+:::
+
+:::{.bio-column-left}
+Cientista, fotógrafo, músico. As múltiplas atividades culturais e científicas se entrelaçam no exercício poético e visual da fotografia do ecólogo do professor emérito da Unicamp-Brasil.
+:::
+:::
+
+:::{.column-body style="margin-top:-20px;"}
+```{r}
+#| echo: false
+
+tags$div(class = "row", style = "display: flex;",
+         
+create_button(
+  icon = "fab fa-google",
+  url = "https://scholar.google.com/citations?user=TwK7lywAAAAJ&hl=pt-BR"
+),
+create_button(
+  icon = "fab fa-orcid",
+  url = "https://orcid.org/0000-0001-5950-5343"
+),
+)
+```
+:::
+
+
+### {{< fa newspaper >}} Posts 
+
+

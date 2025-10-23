@@ -1,0 +1,47 @@
+---
+title: "Arturo Flores Martínez"
+lang: es
+# include-after-body: _footer.html
+---
+
+```{r, include=FALSE}
+library(htmltools)
+library(here)
+source(here("R", "functions.R"))
+```
+
+### {{< fa circle-user >}} Bio 
+
+:::{.bio-row}
+:::{.bio-column-right}
+
+```{r out.width='275px', out.extra='style="display:block; margin-left:auto; margin-right:auto; clip-path: circle();"'}
+#| echo: false
+knitr::include_graphics("~/relate/images/people/arturo.png")
+```
+:::
+
+:::{.bio-column-left}
+El Dr. Arturo Flores Martínez, investigador y profesor titular C en el Laboratorio de Ecología Vegetal del Departamento de Botánica en la Escuela Nacional de Ciencias Biológicas del Instituto Politécnico Nacional (ENCB-IPN).
+
+:::
+:::
+
+:::{.column-body style="margin-top:-20px;"}
+```{r}
+#| echo: false
+
+tags$div(class = "row", style = "display: flex;",
+         
+create_button(
+  icon = "fab fa-google",
+  url = "https://scholar.google.com/citations?user=hp-JzswAAAAJ&hl=es"
+),
+)
+```
+:::
+
+
+### {{< fa newspaper >}} Posts 
+
+
