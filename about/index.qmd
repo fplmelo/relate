@@ -87,7 +87,7 @@ create_team_card(
 create_team_card(
   person_page = "jorge/index.html",
   img_src = "../images/people/jorge.png",
-  name = "Jorge Dayvis",
+  name = "Jorge Deyvis",
   text = "Cuba"
 ),
 create_team_card(
@@ -96,7 +96,29 @@ create_team_card(
   name = "Leonel Sierralta",
   text = "Chile"
 )
-)  
+)
+tags$div(class = "row", # Create a row for 3 team-member cards
+
+create_team_card(
+  person_page = "luisa/index.html",
+  img_src = "../images/people/luisa.png",
+  name = "Luísa Maria Diele Viegas",
+  text = "Brasil"
+),
+create_team_card(
+  person_page = "thomas/index.html",
+  img_src = "../images/people/thomas.png",
+  name = "Thomas Lewinsohn",
+  text = "Brasil"
+),
+create_team_card(
+  person_page = "arturo/index.html",
+  img_src = "../images/people/arturo.png",
+  name = "Arturo Flores-Martínez",
+  text = "México"
+)
+)
+
 
 ```
 
