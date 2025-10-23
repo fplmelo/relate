@@ -29,7 +29,7 @@ website:
         icon: house-door-fill
         text: " "
       - href: about/index.qmd
-        text: "Sobre la RelatE"
+        text: "Sobre la ReLatE"
       - href: posts/index.qmd
         text: "Noticias"
       - text: "Sociedades"
@@ -50,8 +50,8 @@ website:
         text: "Blog"
       # - href: gallery/index.qmd
       #   text: "Galeria"
-      - href: https://github.com/fplmelo/relate
-        icon: github
+      # - href: https://github.com/fplmelo/relate
+      #   icon: github
   announcement:
     icon: info-circle
     dismissable: true
