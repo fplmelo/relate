@@ -16,6 +16,19 @@ freeze: true
 
 :::{.column-page layout="[1,1]" style="float:left;"}
 
+<a href="https://xcongresoeco.org/">
+![](images/eventos/cartel.png){style="width:100%;"}
+</a>
+
+# [X Congreso Mexicano de Ecología & I Congreso Latinoamericano de Ecología](https://xcongresoeco.org/)
+
+Será la primera reunión Latinoamericana de Ecólogos, albergada por nuestros anfitriones mexicanos en su X Congreso Mexicano de Ecología. No te lo pierdas!
+
+:::
+
+
+:::{.column-page layout="[1,1]" style="float:left;"}
+
 <a href="https://asaeargentina.com.ar/rae2025/">
 ![](images/eventos/trinacional.png){style="width:100%;"}
 </a>

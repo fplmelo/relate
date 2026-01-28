@@ -45,7 +45,7 @@ source("R/functions.R")
 
 <a href="https://relatecologia.org/">
 
-![](images/homepage/latam_invert.jpg){.home-img}
+![](images/homepage/cartel.png){.home-img width=70%}
 </a>
 
 :::
