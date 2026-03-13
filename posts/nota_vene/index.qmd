@@ -16,6 +16,7 @@ freeze: true
 engine: knitr
 jupyter: python3
 draft: false
+resources: doc_vene.pdf
 editor_options: 
   chunk_output_type: console
 lang: es
@@ -28,7 +29,7 @@ library(htmltools)
 
 ![Foto: Answer Coalition via TeleSur](vene.jpg)
 
-Para desgargar el Documento haga Click [AQUÍ](~/relate/posts/nota_vene/doc_vene.pdf)
+Para desgargar el Documento haga Click [AQUÍ](doc_vene.pdf)
 
 Ante los hechos ocurridos desde comienzos de 2026, en los que diferentes países de América Latina han sufrido amenazas y/o ataques directos por parte del gobierno de los Estados Unidos de América (EE.UU.), la Red Latinoamericana de Ecología, en lo sucesivo ReLatE, manifiesta
 su profunda preocupación y, en su carácter de organización que nuclea a las sociedades científicas dedicadas a la investigación ecológica en nuestra región, desea expresarse públicamente.
