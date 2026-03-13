@@ -26,7 +26,7 @@ lang: es
 library(htmltools)
 ```
 
-![Foto: Answer Coalition](https://ikona.telesurtv.net/content/uploads/2026/01/answer-hand-off-venezuela-ene26-768x432.jpg)
+![Foto: Answer Coalition via TeleSur](https://ikona.telesurtv.net/content/uploads/2026/01/answer-hand-off-venezuela-ene26-768x432.jpg)
 
 Para desgargar el Documento haga Click [AQUÍ](~/relate/posts/nota_vene.pdf)
 
