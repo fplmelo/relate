@@ -11,7 +11,7 @@ toc: true
 toc-location: left
 toc-depth: 2
 categories: ""
-image: video_shot.png
+image: vene.png
 freeze: true
 engine: knitr
 jupyter: python3
@@ -30,10 +30,10 @@ library(htmltools)
 
 Para desgargar el Documento haga Click [AQUÍ](~/relate/posts/nota_vene/doc_vene.pdf)
 
-**A**nte los hechos ocurridos desde comienzos de 2026, en los que diferentes países de América Latina han sufrido amenazas y/o ataques directos por parte del gobierno de los Estados Unidos de América (EE.UU.), la Red Latinoamericana de Ecología, en lo sucesivo ReLatE, manifiesta
+Ante los hechos ocurridos desde comienzos de 2026, en los que diferentes países de América Latina han sufrido amenazas y/o ataques directos por parte del gobierno de los Estados Unidos de América (EE.UU.), la Red Latinoamericana de Ecología, en lo sucesivo ReLatE, manifiesta
 su profunda preocupación y, en su carácter de organización que nuclea a las sociedades científicas dedicadas a la investigación ecológica en nuestra región, desea expresarse públicamente.
 
-ReLatE emerge como una respuesta a la sentida necesidad de articular esfuerzos, experiencias ysaberes entre las comunidades científicas de la región, que permitan abordar la ecología desdeperspectivas situadas con foco en el Sur global. Como tal, condenamos públicamente las
+ReLatE emerge como una respuesta a la sentida necesidad de articular esfuerzos, experiencias y saberes entre las comunidades científicas de la región, que permitan abordar la ecología desde perspectivas situadas con foco en el Sur global. Como tal, condenamos públicamente las
 prácticas que afectan el derecho a la soberanía de los pueblos, e impactan el desarrollo de la práctica científica regional, comprometen la cooperación internacional y ponen en riesgo los procesos de conservación de la diversidad biológica, cultural y la integridad de los sistemas
 socioambientales.
 
