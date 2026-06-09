@@ -1,0 +1,15 @@
+{
+  "hash": "244d30b5b96caefb58356c09e0ea2592",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Associação Basileira de Ciência Ecológica e Conservação - ABECO\"\nlang: es\n# include-after-body: _footer.html\n---\n\n\n\n:::{.bio-row}\n:::{.bio-column-right}\n\n\n::: {.cell}\n::: {.cell-output-display}\n![](../../images/logos/abeco1.png){width=275px style=\"display:block; margin-left:auto; margin-right:auto\"}\n:::\n:::\n\n:::\n\n:::{.bio-column-left}\nA Associação Brasileira de Ciência Ecológica e Conservação - ABECO - é uma associação científica, privada e sem fins lucrativos, fundada em 2 de março de 2007. Reunimos profissionais atuantes nas mais variadas áreas das Ciências Ecológicas do Brasil, como pesquisadores, professores, técnicos e estudantes. Promovemos o avanço dos debates e conceitos ecológicos por meio de nossas reuniões bianuais, a RABECO, estimulando o intercâmbio de conhecimento através de colaborações inter e transdisciplinares, além da ampliação do conhecimento científico ecológico por meio dos nossos periódicos associados. \n\nNossos principais objetivos são: ampliar a relevância político-científica das ciências ecológicas no cenário nacional; promover a diversidade e inclusão da ecologia e conservação; estimular a produção e divulgação do conhecimento científico ecológico e de conservação realizado no Brasil.\n:::\n:::\n\n:::{.column-body style=\"margin-top:-20px;\"}\n\n::: {.cell}\n::: {.cell-output-display}\n\n```{=html}\n<div class=\"row\" style=\"display: flex;\">\n<div class=\"button-column\">\n<a href=\"https://www.instagram.com/abecobr/\" style=\"border-bottom: none\">\n<button class=\"button-2\">\n<i class=\"fab fa-instagram fa-xl\"></i>\n</button>\n</a>\n</div>\n<div class=\"button-column\">\n<a href=\"https://abeco.org.br/\" style=\"border-bottom: none\">\n<button class=\"button-2\">\n<i class=\"fas fa-globe fa-xl\"></i>\n</button>\n</a>\n</div>\n</div>\n```\n\n:::\n:::\n\n:::\n\n\n### {{< fa newspaper >}} Posts \n\n\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

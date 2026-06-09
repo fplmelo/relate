@@ -1,0 +1,50 @@
+---
+title: "Associação Basileira de Ciência Ecológica e Conservação - ABECO"
+lang: es
+# include-after-body: _footer.html
+---
+
+```{r, include=FALSE}
+library(htmltools)
+library(here)
+source(here("R", "functions.R"))
+```
+
+:::{.bio-row}
+:::{.bio-column-right}
+
+```{r out.width='275px', out.extra='style="display:block; margin-left:auto; margin-right:auto"'}
+#| echo: false
+knitr::include_graphics(here("/home/felipemelo/relate/images/logos/abeco1.png"))
+```
+:::
+
+:::{.bio-column-left}
+A Associação Brasileira de Ciência Ecológica e Conservação - ABECO - é uma associação científica, privada e sem fins lucrativos, fundada em 2 de março de 2007. Reunimos profissionais atuantes nas mais variadas áreas das Ciências Ecológicas do Brasil, como pesquisadores, professores, técnicos e estudantes. Promovemos o avanço dos debates e conceitos ecológicos por meio de nossas reuniões bianuais, a RABECO, estimulando o intercâmbio de conhecimento através de colaborações inter e transdisciplinares, além da ampliação do conhecimento científico ecológico por meio dos nossos periódicos associados. 
+
+Nossos principais objetivos são: ampliar a relevância político-científica das ciências ecológicas no cenário nacional; promover a diversidade e inclusão da ecologia e conservação; estimular a produção e divulgação do conhecimento científico ecológico e de conservação realizado no Brasil.
+:::
+:::
+
+:::{.column-body style="margin-top:-20px;"}
+```{r}
+#| echo: false
+
+tags$div(class = "row", style = "display: flex;",
+         
+create_button(
+  icon = "fab fa-instagram fa-xl",
+  url = "https://www.instagram.com/abecobr/"),
+
+create_button(
+  icon = "fas fa-globe fa-xl",
+  url = "https://abeco.org.br/"
+),
+)
+```
+:::
+
+
+### {{< fa newspaper >}} Posts 
+
+

@@ -1,7 +1,7 @@
 ---
-title: "Sobre nosotros"
+title: "Conozca las Sociedades de Ecología que Conforman la RelatE"
 lang: es
-subtitle: Las personas abajo somos las que estamos trabajando para consolidar la RelatE inicialmente
+subtitle: ""
 format: html 
 title-block-banner: "#E06E53"
 title-block-banner-color: body
@@ -18,7 +18,7 @@ library(htmltools)
 source("../R/functions.R")
 ```
 
-Somos las personas que se reunieron incialmente pra fundar la **RelatE** y luego que tengamos la red consolidada, habrá mecanismos democráticos de elección de la primera junta directiva.
+Cada sociedad de Ecología que ayudó a formar la RelatE asignó uno o más representantes para contruir las bases de la Red
 
 ### Nuestras tareas son:  
 
@@ -36,6 +36,12 @@ Somos las personas que se reunieron incialmente pra fundar la **RelatE** y luego
 #| echo: false
 tags$div(class = "row",# Create a row for 3 team-member cards
          
+create_team_card(
+  person_page = "abeco/index.html",
+  img_src = "../images/logos/abeco1.png",
+  name = "ABECO",
+  text = "Brasil"
+),
 create_team_card(
   person_page = "maria_noel/index.html",
   img_src = "../images/people/maria.png",
